@@ -1,6 +1,13 @@
+# Crypto Trading Web App - 	Wathare Infotech Solutions Task
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Chart-Dashboard](https://github.com/SiddeshBhakare/Crypto-Trading-WathareTask/assets/136821590/91d3a425-786c-4436-b22d-2d9a1a892796)
+
+![Dashboard](https://github.com/SiddeshBhakare/Crypto-Trading-WathareTask/assets/136821590/1792a9b0-bccb-4e34-b92a-c05b7735c6c3)
+
 
 ## Available Scripts
 
